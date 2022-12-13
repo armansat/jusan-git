@@ -16,14 +16,17 @@ bash ./script.sh
 ## Портирование
 Данный проект можно портировать на другие языки программирования
 На Java
+
 ```
 class Main {
     public static void main(String[] args) {
         System.out.println("777");
     }
 }
+
 ```
 На C++
+
 ```
 #include <iostream>
 
@@ -32,6 +35,7 @@ int main() {
     cout << 777 << endl;
     return 0;
 }
+
 ```
 > :bulb: Попробуйте реализовать на Python, Go, JavaScript.
 ## Контакты разработчика
