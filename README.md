@@ -1,5 +1,7 @@
 # stepik-id-printer
 
+![[Jusan](home/boss/jusan-git/image.png)](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
+
 Это проект для вывода моего персонального идентификатора на *образовательной платформе* `stepik.org`.
 
 Скрипт `username.sh` выводит мое имя
