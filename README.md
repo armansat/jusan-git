@@ -14,7 +14,7 @@ bash ./script.sh
 Данный проект можно портировать на другие языки программирования
 На Java
 ```
-<p style="color:red">class</p> Main {
+<font color="red">class</font> Main {
     public static void main(String[] args) {
         System.out.println("777");
     }
